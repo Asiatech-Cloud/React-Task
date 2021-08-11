@@ -9,9 +9,11 @@
 <div dir="rtl">
 می توانید از react router استفاده کنید و همچنین می توانید با sign up کردن در يك weather app از api key رایگان برای گرفتن اطلاعات آب و هوا استفاده کنید.
 
+<div dir="ltr">
 API Link: https://openweathermap.org/current
   
-  
+  <div dir="rtl">
+    
 **سخن آخر**
 
 <div dir="rtl">
