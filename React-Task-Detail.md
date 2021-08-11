@@ -9,7 +9,9 @@
 <div dir="rtl">
 می توانید از react router استفاده کنید و همچنین می توانید با sign up کردن در يك weather app از api key رایگان برای گرفتن اطلاعات آب و هوا استفاده کنید.
 
-
+API Link: https://openweathermap.org/current
+  
+  
 **سخن آخر**
 
 <div dir="rtl">
@@ -18,5 +20,5 @@
 
 <div dir="rtl">
 خروجی این تسک را بر روی اکانت گیت هاب خود قرار داده و لینک آن را برای 
-h.ahmadpnah@asiatech.cloud
+h.ahmadpanah@asiatech.cloud
 ایمیل کنید
